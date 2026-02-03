@@ -143,7 +143,7 @@ export const seoData: SEODataType = {
   description: greetings.description,
   author: "Geetha",
  image: "https://media.licdn.com/dms/image/v2/D4D03AQG0BVt37CclBg/profile-displayphoto-shrink_400_400/B4DZTqEwJkHkAg-/0/1739093903285?e=1771459200&v=beta&t=Znxrc1uEh63WDXQXBDVA8-IU2MpYRRKnq6N-u5upWCU",
-  url: "https://www.linkedin.com/in/geethareddy2007",
+  url: "https://media.licdn.com/dms/image/v2/D4D03AQG0BVt37CclBg/profile-displayphoto-shrink_400_400/B4DZTqEwJkHkAg-/0/1739093903285?e=1771459200&v=beta&t=Znxrc1uEh63WDXQXBDVA8-IU2MpYRRKnq6N-u5upWCU",
   keywords: [
     "Geetha",
     "Geetha reddy",
