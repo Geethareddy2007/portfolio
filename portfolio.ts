@@ -32,7 +32,7 @@ export const socialLinks: SocialLinksType = {
   linkedin: "https://www.linkedin.com/in/geethareddy2007/",
   github: "https://github.com/geethareddy2007",
   instagram: "https://www.instagram.com/geetha_reddy_____",
-    resumeLink: "file:///C:/Users/HP/Downloads/geetha-reddy_20260127_1847%20(1).pdf",
+resumeLink: "https://raw.githubusercontent.com/Geethareddy2007/portfolio/main/geetha-reddy_20260127_1847.pdf"
   // facebook: 'https://www.facebook.com/1hanzla100',
   // twitter: 'https://twitter.com/1hanzla100',
 };
