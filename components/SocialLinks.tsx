@@ -61,6 +61,20 @@ href={"mailto:" + socialLinks.email}
           </span>
         </Button>
       )}
+      {socialLinks.resumeLink && (
+        <Button
+          className="btn-icon-only rounded-circle ml-1"
+          color="warning"
+          href={socialLinks.resumeLink}
+          target="_blank"
+          rel="noopener"
+          aria-label="Resume"
+        >
+          <span className="btn-inner--icon">
+            <i className="fa fa-file-text" />
+          </span>
+        </Button>
+      )}
       {socialLinks.facebook && (
         <Button
           className="btn-icon-only rounded-circle ml-1"
